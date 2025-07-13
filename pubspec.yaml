@@ -94,7 +94,7 @@ flutter_icons:
   android: true
   ios: true
   image_path: "assets/bluesky.png"
-  min_sdk_android: 21 # android min sdk min:16, default 21
+  min_sdk_android: 21 
   web:
     generate: true
     image_path: "assets/bluesky.png"
